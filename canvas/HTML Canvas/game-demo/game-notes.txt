@@ -1,0 +1,33 @@
+let's not give our characters a jump capability.
+Need to implement the no movement after death.
+Need to fix up the radius for the attacks
+
+Need to add perspective dynamic:
+1. by pressing right arrow once, it remains in right mode,
+2. by pressing left arrow once, it remains in left mode,
+
+hence dual persepective and dual animateable
+
+(Abstract away and refactor the code later)
+
+-------------------
+
+1. dynamics: 
+    1. parry //
+    2. perspective
+    3. dash
+    4. jump(undefined)
+
+2. enemy automated //
+3. health bar's inteface more like flow 
+
+------------------
+
+0. Instructions display on right 
+1. more backgrounds - more levels
+2. narrated story
+3. dialogues
+4. menu screen - starting screen
+5. Level display or something
+6. sound
+
